@@ -50,7 +50,7 @@ This project helps in learning:
 
 ![TMA page](login.png)
 ![TMA details](create.png)
-![TMA details](update.png)
+![TMA details](Update.png)
 ![TMA page](dashboard2.png)
 
 
