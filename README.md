@@ -30,9 +30,6 @@ A full-stack Django-based Task Management Web Application that allows users to c
 
 1. Open browser
 2. Go to:
-
-http://127.0.0.1:8000/
-
 3. Signup/Login
 4. Create and manage tasks
 
@@ -49,9 +46,23 @@ This project helps in learning:
 
 ---
 
-# Author
+## Screenshot
+
+![TMA page](login.png)
+![TMA details](create.png)
+![TMA details](update.png)
+![TMA page](dashboard2.png)
+
+
+## 👨‍💻 Author
 
 Sachin Kumar
 
-GitHub:
-https://github.com/SACHIN197-creator
+### LinkedIn
+[LinkedIn Profile](https://www.linkedin.com/in/sachin-kumar-362b53343/)
+
+### GitHub
+[GitHub](https://github.com/SACHIN197-creator)
+
+---
+
