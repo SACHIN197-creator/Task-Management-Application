@@ -23,7 +23,6 @@ A full-stack Django-based Task Management Web Application that allows users to c
 - HTML5
 - CSS3
 - SQLite
-- 
 ---
 
 # Usage
